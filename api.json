@@ -1,0 +1,12 @@
+{
+"clientVersionCode": 1,
+"clientSampVersionCode": 1,
+"gameFilesVersionCode": 1,
+"URL_GAME_FILES" : "http://157.254.192.32/game.zip",
+"URL_GAME_FILES_UPD" : "http://157.254.192.32/files_upd.zip",
+"URL_DISCORD": "https://discord.gg/",
+"URL_YOUTUBE": "",
+"URL_FORUM": "",
+"URL_DONATE": "",
+"URL_CLIENT": "http://157.254.192.32/client.apk"
+}
